@@ -4,38 +4,50 @@
         {
             "themeName": "Modern Icons",
             "packageName": "uprui.icons.modern",
-            "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg",
-            "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_modern.png"
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_modern.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_morden.png"
         },
         {
             "themeName": "Win 10 Colors",
             "packageName": "uprui.icons.win10colors",
-            "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg",
-            "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_win.png"
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_win10.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_win10.png"
         },
         {
             "themeName": "Stylish Icons",
             "packageName": "uprui.icons.stylish",
-            "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg",
-            "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_stylish.png"
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_stylish.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_stylish.png"
         },
         {
             "themeName": "FlatUI Free",
             "packageName": "mlauncher.theme.a1.flatui",
-            "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg",
-            "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_flatui_free.png"
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_flatui.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_flatui.png"
         },
         {
             "themeName": "Colorful Line",
             "packageName": "uprui.icons.colorfulline",
-            "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg",
-            "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_colorful.png"
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_colorful.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_colorfulline.png"
         },
         {
-            "themeName": "Metal",
-            "packageName": "mlauncher.theme.a5.metal",
-            "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg",
-            "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_metal.png"
+            "themeName": "Breath",
+            "packageName": "mlauncher.theme.a4.breath",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_breath.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_breath.png"
+        },
+        {
+            "themeName": "Fly Icons",
+            "packageName": "mlauncher.theme.a3.fly",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_fly.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_fly.png"
+        },
+        {
+            "themeName": "Dark Green",
+            "packageName": "mlauncher.theme.a2.darkgreen",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_darkgreen.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_darkgreen.png"
         }
     ],
 }
