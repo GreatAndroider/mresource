@@ -8,6 +8,12 @@
             "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_morden.png"
         },
         {
+            "themeName": "Modern Icons",
+            "packageName": "uprui.icons.modern",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_modern.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_morden.png"
+        },
+        {
             "themeName": "Win 10 Colors",
             "packageName": "uprui.icons.win10colors",
             "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_win10.jpg",
