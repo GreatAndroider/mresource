@@ -1,6 +1,18 @@
 {
     "status": 1,
     "data": [
+         {
+            "themeName": "Animal Union",
+            "packageName": "craftsicons.iconpack.a2.animalunion",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_animalunion.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_animalunion.png"
+        },
+        {
+            "themeName": "Gold Icons Pro",
+            "packageName": "craftsicons.iconpack.a1.gold",
+            "picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_goldpro.jpg",
+            "iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_goldpro.png"
+        },
         {
             "themeName": "Modern Icons",
             "packageName": "uprui.icons.modern",
